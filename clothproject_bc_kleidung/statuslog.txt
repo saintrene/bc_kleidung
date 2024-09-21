@@ -1,0 +1,805 @@
+9/21/2024 2:06:25 PM|Created new project.
+9/21/2024 2:06:25 PM|Found a valid license. [1616]
+9/21/2024 2:06:25 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/21/2024 2:06:25 PM|License supports this app version.
+9/21/2024 2:06:25 PM|License matches with your hardware id.
+9/21/2024 2:06:26 PM|You are running the latest version: 3.0.0.7
+9/21/2024 11:14:55 AM|Created new project.
+9/21/2024 11:14:55 AM|Found a valid license. [1616]
+9/21/2024 11:14:55 AM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/21/2024 11:14:55 AM|License supports this app version.
+9/21/2024 11:14:55 AM|License matches with your hardware id.
+9/21/2024 11:14:56 AM|You are running the latest version: 3.0.0.7
+9/21/2024 11:12:04 AM|Created new project.
+9/21/2024 11:12:04 AM|Found a valid license. [1616]
+9/21/2024 11:12:04 AM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/21/2024 11:12:04 AM|License supports this app version.
+9/21/2024 11:12:04 AM|License matches with your hardware id.
+9/19/2024 6:54:58 PM|Created new project.
+9/19/2024 6:54:58 PM|Found a valid license. [1616]
+9/19/2024 6:54:58 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/19/2024 6:54:58 PM|License supports this app version.
+9/19/2024 6:54:58 PM|License matches with your hardware id.
+9/19/2024 6:54:58 PM|0 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_new.dctproj (0 clothes/0 decorations/0 facial overlays) ...
+9/19/2024 6:54:59 PM|Loading all 0 items, this can take a moment...
+9/19/2024 6:54:59 PM|Finished loading all 0 items.
+9/19/2024 6:54:59 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_new.dctproj completely loaded 0 items and ready to rock (in 1.1739761 seconds).
+9/19/2024 6:55:00 PM|You are running the latest version: 3.0.0.7
+9/17/2024 7:42:08 PM|Created new project.
+9/17/2024 7:42:08 PM|Found a valid license. [1616]
+9/17/2024 7:42:08 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/17/2024 7:42:08 PM|License supports this app version.
+9/17/2024 7:42:08 PM|License matches with your hardware id.
+9/16/2024 10:07:44 PM|Created new project.
+9/16/2024 10:07:44 PM|Found a valid license. [1616]
+9/16/2024 10:07:44 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/16/2024 10:07:44 PM|License supports this app version.
+9/16/2024 10:07:44 PM|License matches with your hardware id.
+9/16/2024 10:07:45 PM|You are running the latest version: 3.0.0.7
+9/16/2024 5:51:38 PM|Created new project.
+9/16/2024 5:51:39 PM|Found a valid license. [1616]
+9/16/2024 5:51:39 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/16/2024 5:51:39 PM|License supports this app version.
+9/16/2024 5:51:39 PM|License matches with your hardware id.
+9/16/2024 5:51:39 PM|52 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (52 clothes/0 decorations/0 facial overlays) ...
+9/16/2024 5:51:40 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/16/2024 5:51:40 PM|You are running the latest version: 3.0.0.7
+9/16/2024 5:51:40 PM|Loading all 165 items, this can take a moment...
+9/16/2024 5:51:41 PM|Finished loading all 165 items.
+9/16/2024 5:51:41 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 165 items and ready to rock (in 1.9724077 seconds).
+9/16/2024 5:51:51 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:51:53 PM|Continue adding possible duplicate texture of 'a' from 'Male 371 Legs' (Legs) at pos 371
+9/16/2024 5:51:53 PM|Added Male 5 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Hose\mp_m_freemode_01_mp_m_fgzsad^lowr_000_r.ydd.
+9/16/2024 5:52:29 PM|Removed 'Legs' (See logs for full details). Total items: 52
+9/16/2024 5:52:31 PM|Removed 'Legs' (See logs for full details). Total items: 51
+9/16/2024 5:52:35 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:52:35 PM|Added Male 4 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Hose\mp_m_freemode_01_mp_m_fgzsad^lowr_000_r.ydd.
+9/16/2024 5:52:38 PM|Successfully backed up project 2024-09-16 17:52:38.
+9/16/2024 5:52:47 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:52:49 PM|Continue adding possible duplicate texture of 'a' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:52:49 PM|Added Male 13 Top with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Torso\mp_m_freemode_01_mp_m_fgzsad^jbib_000_u.ydd.
+9/16/2024 5:53:38 PM|Successfully backed up project 2024-09-16 17:53:38.
+9/16/2024 5:54:38 PM|Successfully backed up project 2024-09-16 17:54:38.
+9/16/2024 5:54:39 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 5:54:41 PM|Continue adding possible duplicate texture of 'a' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:41 PM|Added texture C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Torso\mp_m_freemode_01_mp_m_fgzsad^jbib_diff_000_a_uni.ytd to 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:46 PM|Removed texture 'b' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:46 PM|1 texture(s) deleted.
+9/16/2024 5:55:35 PM|Removed 'Top' (See logs for full details). Total items: 52
+9/16/2024 5:55:38 PM|Successfully backed up project 2024-09-16 17:55:38.
+9/16/2024 5:56:38 PM|Successfully backed up project 2024-09-16 17:56:38.
+9/16/2024 5:57:38 PM|Successfully backed up project 2024-09-16 17:57:38.
+9/16/2024 5:58:38 PM|Successfully backed up project 2024-09-16 17:58:38.
+9/16/2024 10:07:51 PM|52 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (52 clothes/0 decorations/0 facial overlays) ...
+9/16/2024 10:07:51 PM|Validated project cache. Removed 1 outdated items. Added 1 new items.
+9/16/2024 10:07:51 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/16/2024 10:07:51 PM|Loading all 165 items, this can take a moment...
+9/16/2024 10:07:51 PM|Finished loading all 165 items.
+9/16/2024 10:07:51 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 165 items and ready to rock (in 7.2876846 seconds).
+9/16/2024 10:08:05 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 10:08:06 PM|Added Male 13 Top with 1 found textures from C:\Users\Rene Queda\Downloads\CorleoneNEU\CorleoneNEU\mp_m_freemode_01_mp_m_^jbib_103_u.ydd.
+9/16/2024 10:08:25 PM|Successfully built FiveM resource (53 clothes / 0 tattoos / 0 facial overlays) to C:\Users\Rene Queda\Desktop\DurtyClothTool.App\gp_kleidungv1
+9/16/2024 10:08:44 PM|Successfully backed up project 2024-09-16 22:08:44.
+9/16/2024 10:09:44 PM|Successfully backed up project 2024-09-16 22:09:44.
+9/16/2024 10:10:44 PM|Successfully backed up project 2024-09-16 22:10:44.
+9/16/2024 10:11:44 PM|Successfully backed up project 2024-09-16 22:11:44.
+9/16/2024 10:12:44 PM|Successfully backed up project 2024-09-16 22:12:44.
+9/16/2024 10:13:44 PM|Successfully backed up project 2024-09-16 22:13:44.
+9/16/2024 10:14:44 PM|Successfully backed up project 2024-09-16 22:14:44.
+9/16/2024 10:15:44 PM|Successfully backed up project 2024-09-16 22:15:44.
+9/16/2024 10:16:44 PM|Successfully backed up project 2024-09-16 22:16:44.
+9/16/2024 10:17:44 PM|Successfully backed up project 2024-09-16 22:17:44.
+9/16/2024 10:18:44 PM|Successfully backed up project 2024-09-16 22:18:44.
+9/16/2024 10:19:44 PM|Successfully backed up project 2024-09-16 22:19:44.
+9/16/2024 10:20:44 PM|Successfully backed up project 2024-09-16 22:20:44.
+9/16/2024 10:21:44 PM|Successfully backed up project 2024-09-16 22:21:44.
+9/16/2024 10:22:44 PM|Successfully backed up project 2024-09-16 22:22:44.
+9/16/2024 10:23:44 PM|Successfully backed up project 2024-09-16 22:23:44.
+9/16/2024 10:24:44 PM|Successfully backed up project 2024-09-16 22:24:44.
+9/16/2024 10:25:44 PM|Successfully backed up project 2024-09-16 22:25:44.
+9/16/2024 10:26:44 PM|Successfully backed up project 2024-09-16 22:26:44.
+9/16/2024 10:27:44 PM|Successfully backed up project 2024-09-16 22:27:44.
+9/16/2024 10:28:44 PM|Successfully backed up project 2024-09-16 22:28:44.
+9/16/2024 10:29:44 PM|Successfully backed up project 2024-09-16 22:29:44.
+9/16/2024 10:30:44 PM|Successfully backed up project 2024-09-16 22:30:44.
+9/16/2024 10:31:12 PM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd.
+9/16/2024 10:31:12 PM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd.
+9/16/2024 10:31:32 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 10:31:34 PM|Continue adding possible duplicate texture of 'a' from 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:34 PM|Added texture C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd to 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:44 PM|Successfully backed up project 2024-09-16 22:31:44.
+9/16/2024 10:31:46 PM|Removed texture 'a' from 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:46 PM|1 texture(s) deleted.
+9/16/2024 10:32:05 PM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd.
+9/16/2024 10:32:05 PM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd.
+9/16/2024 10:32:33 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 10:32:34 PM|Continue adding possible duplicate texture of 'a' from 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:34 PM|Added texture C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd to 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:37 PM|Removed texture 'a' from 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:37 PM|1 texture(s) deleted.
+9/16/2024 10:32:44 PM|Successfully backed up project 2024-09-16 22:32:44.
+9/17/2024 7:42:09 PM|53 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (53 clothes/0 decorations/0 facial overlays) ...
+9/17/2024 7:42:09 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/17/2024 7:42:09 PM|Loading all 167 items, this can take a moment...
+9/17/2024 7:42:10 PM|Finished loading all 167 items.
+9/17/2024 7:42:10 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 167 items and ready to rock (in 1.1131256 seconds).
+9/17/2024 7:42:10 PM|You are running the latest version: 3.0.0.7
+9/17/2024 7:42:19 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:42:19 PM|Added Male 5 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Hose\mp_m_freemode_01_mp_m_adutymom^lowr_046_r.ydd.
+9/17/2024 7:42:38 PM|Removed 'Legs' (See logs for full details). Total items: 53
+9/17/2024 7:42:43 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:42:43 PM|Added Male 3 Mask with 0 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Maske\mp_m_freemode_01_mp_m_adutymom^berd_010_u.ydd.
+9/17/2024 7:42:49 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/17/2024 7:42:49 PM|Added texture C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Maske\mp_m_freemode_01_mp_m_adutymom^berd_diff_015_b_uni.ytd to 'Male 3 Mask' (Mask) at pos 3
+9/17/2024 7:43:05 PM|Removed 'Mask' (See logs for full details). Total items: 53
+9/17/2024 7:43:08 PM|Successfully backed up project 2024-09-17 19:43:08.
+9/17/2024 7:43:11 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:43:11 PM|Added Male 14 Top with 0 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Torso\mp_m_freemode_01_^jbib_077_u.ydd.
+9/17/2024 7:43:13 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/17/2024 7:43:13 PM|Added texture C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Torso\mp_m_freemode_01_mp_m_adutymom^jbib_diff_086_h_uni.ytd to 'Male 14 Top' (Top) at pos 14
+9/17/2024 7:43:32 PM|Removed 'Top' (See logs for full details). Total items: 53
+9/17/2024 7:43:35 PM|Successfully built FiveM resource (53 clothes / 0 tattoos / 0 facial overlays) to C:\Users\Rene Queda\Desktop\DurtyClothTool.App\gp_kleidungv1
+9/17/2024 7:44:08 PM|Successfully backed up project 2024-09-17 19:44:08.
+9/17/2024 7:45:08 PM|Successfully backed up project 2024-09-17 19:45:08.
+9/17/2024 7:46:08 PM|Successfully backed up project 2024-09-17 19:46:08.
+9/17/2024 7:47:08 PM|Successfully backed up project 2024-09-17 19:47:08.
+9/17/2024 7:48:08 PM|Successfully backed up project 2024-09-17 19:48:08.
+9/17/2024 7:49:08 PM|Successfully backed up project 2024-09-17 19:49:08.
+9/17/2024 7:50:08 PM|Successfully backed up project 2024-09-17 19:50:08.
+9/17/2024 7:51:08 PM|Successfully backed up project 2024-09-17 19:51:08.
+9/17/2024 7:52:08 PM|Successfully backed up project 2024-09-17 19:52:08.
+9/17/2024 7:53:08 PM|Successfully backed up project 2024-09-17 19:53:08.
+9/17/2024 7:54:08 PM|Successfully backed up project 2024-09-17 19:54:08.
+9/17/2024 7:55:08 PM|Successfully backed up project 2024-09-17 19:55:08.
+9/17/2024 7:56:08 PM|Successfully backed up project 2024-09-17 19:56:08.
+9/17/2024 7:57:08 PM|Successfully backed up project 2024-09-17 19:57:08.
+9/17/2024 7:58:08 PM|Successfully backed up project 2024-09-17 19:58:08.
+9/17/2024 7:59:08 PM|Successfully backed up project 2024-09-17 19:59:08.
+9/17/2024 8:00:08 PM|Successfully backed up project 2024-09-17 20:00:08.
+9/17/2024 8:01:08 PM|Successfully backed up project 2024-09-17 20:01:08.
+9/19/2024 6:55:11 PM|53 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (53 clothes/0 decorations/0 facial overlays) ...
+9/19/2024 6:55:11 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/19/2024 6:55:11 PM|Loading all 167 items, this can take a moment...
+9/19/2024 6:55:12 PM|Finished loading all 167 items.
+9/19/2024 6:55:12 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 167 items and ready to rock (in 0.4407176 seconds).
+9/17/2024 7:42:08 PM|Created new project.
+9/17/2024 7:42:08 PM|Found a valid license. [1616]
+9/17/2024 7:42:08 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/17/2024 7:42:08 PM|License supports this app version.
+9/17/2024 7:42:08 PM|License matches with your hardware id.
+9/16/2024 10:07:44 PM|Created new project.
+9/16/2024 10:07:44 PM|Found a valid license. [1616]
+9/16/2024 10:07:44 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/16/2024 10:07:44 PM|License supports this app version.
+9/16/2024 10:07:44 PM|License matches with your hardware id.
+9/16/2024 10:07:45 PM|You are running the latest version: 3.0.0.7
+9/16/2024 5:51:38 PM|Created new project.
+9/16/2024 5:51:39 PM|Found a valid license. [1616]
+9/16/2024 5:51:39 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/16/2024 5:51:39 PM|License supports this app version.
+9/16/2024 5:51:39 PM|License matches with your hardware id.
+9/16/2024 5:51:39 PM|52 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (52 clothes/0 decorations/0 facial overlays) ...
+9/16/2024 5:51:40 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/16/2024 5:51:40 PM|You are running the latest version: 3.0.0.7
+9/16/2024 5:51:40 PM|Loading all 165 items, this can take a moment...
+9/16/2024 5:51:41 PM|Finished loading all 165 items.
+9/16/2024 5:51:41 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 165 items and ready to rock (in 1.9724077 seconds).
+9/16/2024 5:51:51 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:51:53 PM|Continue adding possible duplicate texture of 'a' from 'Male 371 Legs' (Legs) at pos 371
+9/16/2024 5:51:53 PM|Added Male 5 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Hose\mp_m_freemode_01_mp_m_fgzsad^lowr_000_r.ydd.
+9/16/2024 5:52:29 PM|Removed 'Legs' (See logs for full details). Total items: 52
+9/16/2024 5:52:31 PM|Removed 'Legs' (See logs for full details). Total items: 51
+9/16/2024 5:52:35 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:52:35 PM|Added Male 4 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Hose\mp_m_freemode_01_mp_m_fgzsad^lowr_000_r.ydd.
+9/16/2024 5:52:38 PM|Successfully backed up project 2024-09-16 17:52:38.
+9/16/2024 5:52:47 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:52:49 PM|Continue adding possible duplicate texture of 'a' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:52:49 PM|Added Male 13 Top with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Torso\mp_m_freemode_01_mp_m_fgzsad^jbib_000_u.ydd.
+9/16/2024 5:53:38 PM|Successfully backed up project 2024-09-16 17:53:38.
+9/16/2024 5:54:38 PM|Successfully backed up project 2024-09-16 17:54:38.
+9/16/2024 5:54:39 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 5:54:41 PM|Continue adding possible duplicate texture of 'a' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:41 PM|Added texture C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Torso\mp_m_freemode_01_mp_m_fgzsad^jbib_diff_000_a_uni.ytd to 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:46 PM|Removed texture 'b' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:46 PM|1 texture(s) deleted.
+9/16/2024 5:55:35 PM|Removed 'Top' (See logs for full details). Total items: 52
+9/16/2024 5:55:38 PM|Successfully backed up project 2024-09-16 17:55:38.
+9/16/2024 5:56:38 PM|Successfully backed up project 2024-09-16 17:56:38.
+9/16/2024 5:57:38 PM|Successfully backed up project 2024-09-16 17:57:38.
+9/16/2024 5:58:38 PM|Successfully backed up project 2024-09-16 17:58:38.
+9/16/2024 10:07:51 PM|52 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (52 clothes/0 decorations/0 facial overlays) ...
+9/16/2024 10:07:51 PM|Validated project cache. Removed 1 outdated items. Added 1 new items.
+9/16/2024 10:07:51 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/16/2024 10:07:51 PM|Loading all 165 items, this can take a moment...
+9/16/2024 10:07:51 PM|Finished loading all 165 items.
+9/16/2024 10:07:51 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 165 items and ready to rock (in 7.2876846 seconds).
+9/16/2024 10:08:05 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 10:08:06 PM|Added Male 13 Top with 1 found textures from C:\Users\Rene Queda\Downloads\CorleoneNEU\CorleoneNEU\mp_m_freemode_01_mp_m_^jbib_103_u.ydd.
+9/16/2024 10:08:25 PM|Successfully built FiveM resource (53 clothes / 0 tattoos / 0 facial overlays) to C:\Users\Rene Queda\Desktop\DurtyClothTool.App\gp_kleidungv1
+9/16/2024 10:08:44 PM|Successfully backed up project 2024-09-16 22:08:44.
+9/16/2024 10:09:44 PM|Successfully backed up project 2024-09-16 22:09:44.
+9/16/2024 10:10:44 PM|Successfully backed up project 2024-09-16 22:10:44.
+9/16/2024 10:11:44 PM|Successfully backed up project 2024-09-16 22:11:44.
+9/16/2024 10:12:44 PM|Successfully backed up project 2024-09-16 22:12:44.
+9/16/2024 10:13:44 PM|Successfully backed up project 2024-09-16 22:13:44.
+9/16/2024 10:14:44 PM|Successfully backed up project 2024-09-16 22:14:44.
+9/16/2024 10:15:44 PM|Successfully backed up project 2024-09-16 22:15:44.
+9/16/2024 10:16:44 PM|Successfully backed up project 2024-09-16 22:16:44.
+9/16/2024 10:17:44 PM|Successfully backed up project 2024-09-16 22:17:44.
+9/16/2024 10:18:44 PM|Successfully backed up project 2024-09-16 22:18:44.
+9/16/2024 10:19:44 PM|Successfully backed up project 2024-09-16 22:19:44.
+9/16/2024 10:20:44 PM|Successfully backed up project 2024-09-16 22:20:44.
+9/16/2024 10:21:44 PM|Successfully backed up project 2024-09-16 22:21:44.
+9/16/2024 10:22:44 PM|Successfully backed up project 2024-09-16 22:22:44.
+9/16/2024 10:23:44 PM|Successfully backed up project 2024-09-16 22:23:44.
+9/16/2024 10:24:44 PM|Successfully backed up project 2024-09-16 22:24:44.
+9/16/2024 10:25:44 PM|Successfully backed up project 2024-09-16 22:25:44.
+9/16/2024 10:26:44 PM|Successfully backed up project 2024-09-16 22:26:44.
+9/16/2024 10:27:44 PM|Successfully backed up project 2024-09-16 22:27:44.
+9/16/2024 10:28:44 PM|Successfully backed up project 2024-09-16 22:28:44.
+9/16/2024 10:29:44 PM|Successfully backed up project 2024-09-16 22:29:44.
+9/16/2024 10:30:44 PM|Successfully backed up project 2024-09-16 22:30:44.
+9/16/2024 10:31:12 PM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd.
+9/16/2024 10:31:12 PM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd.
+9/16/2024 10:31:32 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 10:31:34 PM|Continue adding possible duplicate texture of 'a' from 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:34 PM|Added texture C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd to 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:44 PM|Successfully backed up project 2024-09-16 22:31:44.
+9/16/2024 10:31:46 PM|Removed texture 'a' from 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:46 PM|1 texture(s) deleted.
+9/16/2024 10:32:05 PM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd.
+9/16/2024 10:32:05 PM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd.
+9/16/2024 10:32:33 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 10:32:34 PM|Continue adding possible duplicate texture of 'a' from 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:34 PM|Added texture C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd to 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:37 PM|Removed texture 'a' from 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:37 PM|1 texture(s) deleted.
+9/16/2024 10:32:44 PM|Successfully backed up project 2024-09-16 22:32:44.
+9/17/2024 7:42:09 PM|53 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (53 clothes/0 decorations/0 facial overlays) ...
+9/17/2024 7:42:09 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/17/2024 7:42:09 PM|Loading all 167 items, this can take a moment...
+9/17/2024 7:42:10 PM|Finished loading all 167 items.
+9/17/2024 7:42:10 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 167 items and ready to rock (in 1.1131256 seconds).
+9/17/2024 7:42:10 PM|You are running the latest version: 3.0.0.7
+9/17/2024 7:42:19 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:42:19 PM|Added Male 5 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Hose\mp_m_freemode_01_mp_m_adutymom^lowr_046_r.ydd.
+9/17/2024 7:42:38 PM|Removed 'Legs' (See logs for full details). Total items: 53
+9/17/2024 7:42:43 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:42:43 PM|Added Male 3 Mask with 0 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Maske\mp_m_freemode_01_mp_m_adutymom^berd_010_u.ydd.
+9/17/2024 7:42:49 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/17/2024 7:42:49 PM|Added texture C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Maske\mp_m_freemode_01_mp_m_adutymom^berd_diff_015_b_uni.ytd to 'Male 3 Mask' (Mask) at pos 3
+9/17/2024 7:43:05 PM|Removed 'Mask' (See logs for full details). Total items: 53
+9/17/2024 7:43:08 PM|Successfully backed up project 2024-09-17 19:43:08.
+9/17/2024 7:43:11 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:43:11 PM|Added Male 14 Top with 0 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Torso\mp_m_freemode_01_^jbib_077_u.ydd.
+9/17/2024 7:43:13 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/17/2024 7:43:13 PM|Added texture C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Torso\mp_m_freemode_01_mp_m_adutymom^jbib_diff_086_h_uni.ytd to 'Male 14 Top' (Top) at pos 14
+9/17/2024 7:43:32 PM|Removed 'Top' (See logs for full details). Total items: 53
+9/17/2024 7:43:35 PM|Successfully built FiveM resource (53 clothes / 0 tattoos / 0 facial overlays) to C:\Users\Rene Queda\Desktop\DurtyClothTool.App\gp_kleidungv1
+9/17/2024 7:44:08 PM|Successfully backed up project 2024-09-17 19:44:08.
+9/17/2024 7:45:08 PM|Successfully backed up project 2024-09-17 19:45:08.
+9/17/2024 7:46:08 PM|Successfully backed up project 2024-09-17 19:46:08.
+9/17/2024 7:47:08 PM|Successfully backed up project 2024-09-17 19:47:08.
+9/17/2024 7:48:08 PM|Successfully backed up project 2024-09-17 19:48:08.
+9/17/2024 7:49:08 PM|Successfully backed up project 2024-09-17 19:49:08.
+9/17/2024 7:50:08 PM|Successfully backed up project 2024-09-17 19:50:08.
+9/17/2024 7:51:08 PM|Successfully backed up project 2024-09-17 19:51:08.
+9/17/2024 7:52:08 PM|Successfully backed up project 2024-09-17 19:52:08.
+9/17/2024 7:53:08 PM|Successfully backed up project 2024-09-17 19:53:08.
+9/17/2024 7:54:08 PM|Successfully backed up project 2024-09-17 19:54:08.
+9/17/2024 7:55:08 PM|Successfully backed up project 2024-09-17 19:55:08.
+9/17/2024 7:56:08 PM|Successfully backed up project 2024-09-17 19:56:08.
+9/17/2024 7:57:08 PM|Successfully backed up project 2024-09-17 19:57:08.
+9/17/2024 7:58:08 PM|Successfully backed up project 2024-09-17 19:58:08.
+9/17/2024 7:59:08 PM|Successfully backed up project 2024-09-17 19:59:08.
+9/17/2024 8:00:08 PM|Successfully backed up project 2024-09-17 20:00:08.
+9/17/2024 8:01:08 PM|Successfully backed up project 2024-09-17 20:01:08.
+9/19/2024 6:58:23 PM|50 items in total loading from Project C:\Users\Rene Queda\Documents\GitHub\bc_kleidung\gpkleidung_live.dctproj (50 clothes/0 decorations/0 facial overlays) ...
+9/19/2024 6:58:23 PM|Validated project cache. Removed 6 outdated items. Added 3 new items.
+9/19/2024 6:58:23 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/19/2024 6:58:23 PM|No cache data found for new texture ID 0dd1bc7c-2a14-4b11-a42d-bc364681acdc of cloth ID 3fba97bc-d666-40e6-ae69-83b9e4cca6aa.
+9/19/2024 6:58:23 PM|No cache data found for new texture ID 68169fcc-dcd6-4741-8fe1-8d4a872eceeb of cloth ID fa3c7264-29cd-47ec-825e-5e7dc6b40451.
+9/19/2024 6:58:23 PM|Loading all 160 items, this can take a moment...
+9/19/2024 6:58:23 PM|Finished loading all 160 items.
+9/19/2024 6:58:23 PM|Project C:\Users\Rene Queda\Documents\GitHub\bc_kleidung\gpkleidung_live.dctproj completely loaded 160 items and ready to rock (in 7.7000664 seconds).
+9/17/2024 7:42:08 PM|Created new project.
+9/17/2024 7:42:08 PM|Found a valid license. [1616]
+9/17/2024 7:42:08 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/17/2024 7:42:08 PM|License supports this app version.
+9/17/2024 7:42:08 PM|License matches with your hardware id.
+9/16/2024 10:07:44 PM|Created new project.
+9/16/2024 10:07:44 PM|Found a valid license. [1616]
+9/16/2024 10:07:44 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/16/2024 10:07:44 PM|License supports this app version.
+9/16/2024 10:07:44 PM|License matches with your hardware id.
+9/16/2024 10:07:45 PM|You are running the latest version: 3.0.0.7
+9/16/2024 5:51:38 PM|Created new project.
+9/16/2024 5:51:39 PM|Found a valid license. [1616]
+9/16/2024 5:51:39 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/16/2024 5:51:39 PM|License supports this app version.
+9/16/2024 5:51:39 PM|License matches with your hardware id.
+9/16/2024 5:51:39 PM|52 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (52 clothes/0 decorations/0 facial overlays) ...
+9/16/2024 5:51:40 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/16/2024 5:51:40 PM|You are running the latest version: 3.0.0.7
+9/16/2024 5:51:40 PM|Loading all 165 items, this can take a moment...
+9/16/2024 5:51:41 PM|Finished loading all 165 items.
+9/16/2024 5:51:41 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 165 items and ready to rock (in 1.9724077 seconds).
+9/16/2024 5:51:51 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:51:53 PM|Continue adding possible duplicate texture of 'a' from 'Male 371 Legs' (Legs) at pos 371
+9/16/2024 5:51:53 PM|Added Male 5 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Hose\mp_m_freemode_01_mp_m_fgzsad^lowr_000_r.ydd.
+9/16/2024 5:52:29 PM|Removed 'Legs' (See logs for full details). Total items: 52
+9/16/2024 5:52:31 PM|Removed 'Legs' (See logs for full details). Total items: 51
+9/16/2024 5:52:35 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:52:35 PM|Added Male 4 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Hose\mp_m_freemode_01_mp_m_fgzsad^lowr_000_r.ydd.
+9/16/2024 5:52:38 PM|Successfully backed up project 2024-09-16 17:52:38.
+9/16/2024 5:52:47 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:52:49 PM|Continue adding possible duplicate texture of 'a' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:52:49 PM|Added Male 13 Top with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Torso\mp_m_freemode_01_mp_m_fgzsad^jbib_000_u.ydd.
+9/16/2024 5:53:38 PM|Successfully backed up project 2024-09-16 17:53:38.
+9/16/2024 5:54:38 PM|Successfully backed up project 2024-09-16 17:54:38.
+9/16/2024 5:54:39 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 5:54:41 PM|Continue adding possible duplicate texture of 'a' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:41 PM|Added texture C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Torso\mp_m_freemode_01_mp_m_fgzsad^jbib_diff_000_a_uni.ytd to 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:46 PM|Removed texture 'b' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:46 PM|1 texture(s) deleted.
+9/16/2024 5:55:35 PM|Removed 'Top' (See logs for full details). Total items: 52
+9/16/2024 5:55:38 PM|Successfully backed up project 2024-09-16 17:55:38.
+9/16/2024 5:56:38 PM|Successfully backed up project 2024-09-16 17:56:38.
+9/16/2024 5:57:38 PM|Successfully backed up project 2024-09-16 17:57:38.
+9/16/2024 5:58:38 PM|Successfully backed up project 2024-09-16 17:58:38.
+9/16/2024 10:07:51 PM|52 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (52 clothes/0 decorations/0 facial overlays) ...
+9/16/2024 10:07:51 PM|Validated project cache. Removed 1 outdated items. Added 1 new items.
+9/16/2024 10:07:51 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/16/2024 10:07:51 PM|Loading all 165 items, this can take a moment...
+9/16/2024 10:07:51 PM|Finished loading all 165 items.
+9/16/2024 10:07:51 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 165 items and ready to rock (in 7.2876846 seconds).
+9/16/2024 10:08:05 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 10:08:06 PM|Added Male 13 Top with 1 found textures from C:\Users\Rene Queda\Downloads\CorleoneNEU\CorleoneNEU\mp_m_freemode_01_mp_m_^jbib_103_u.ydd.
+9/16/2024 10:08:25 PM|Successfully built FiveM resource (53 clothes / 0 tattoos / 0 facial overlays) to C:\Users\Rene Queda\Desktop\DurtyClothTool.App\gp_kleidungv1
+9/16/2024 10:08:44 PM|Successfully backed up project 2024-09-16 22:08:44.
+9/16/2024 10:09:44 PM|Successfully backed up project 2024-09-16 22:09:44.
+9/16/2024 10:10:44 PM|Successfully backed up project 2024-09-16 22:10:44.
+9/16/2024 10:11:44 PM|Successfully backed up project 2024-09-16 22:11:44.
+9/16/2024 10:12:44 PM|Successfully backed up project 2024-09-16 22:12:44.
+9/16/2024 10:13:44 PM|Successfully backed up project 2024-09-16 22:13:44.
+9/16/2024 10:14:44 PM|Successfully backed up project 2024-09-16 22:14:44.
+9/16/2024 10:15:44 PM|Successfully backed up project 2024-09-16 22:15:44.
+9/16/2024 10:16:44 PM|Successfully backed up project 2024-09-16 22:16:44.
+9/16/2024 10:17:44 PM|Successfully backed up project 2024-09-16 22:17:44.
+9/16/2024 10:18:44 PM|Successfully backed up project 2024-09-16 22:18:44.
+9/16/2024 10:19:44 PM|Successfully backed up project 2024-09-16 22:19:44.
+9/16/2024 10:20:44 PM|Successfully backed up project 2024-09-16 22:20:44.
+9/16/2024 10:21:44 PM|Successfully backed up project 2024-09-16 22:21:44.
+9/16/2024 10:22:44 PM|Successfully backed up project 2024-09-16 22:22:44.
+9/16/2024 10:23:44 PM|Successfully backed up project 2024-09-16 22:23:44.
+9/16/2024 10:24:44 PM|Successfully backed up project 2024-09-16 22:24:44.
+9/16/2024 10:25:44 PM|Successfully backed up project 2024-09-16 22:25:44.
+9/16/2024 10:26:44 PM|Successfully backed up project 2024-09-16 22:26:44.
+9/16/2024 10:27:44 PM|Successfully backed up project 2024-09-16 22:27:44.
+9/16/2024 10:28:44 PM|Successfully backed up project 2024-09-16 22:28:44.
+9/16/2024 10:29:44 PM|Successfully backed up project 2024-09-16 22:29:44.
+9/16/2024 10:30:44 PM|Successfully backed up project 2024-09-16 22:30:44.
+9/16/2024 10:31:12 PM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd.
+9/16/2024 10:31:12 PM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd.
+9/16/2024 10:31:32 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 10:31:34 PM|Continue adding possible duplicate texture of 'a' from 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:34 PM|Added texture C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd to 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:44 PM|Successfully backed up project 2024-09-16 22:31:44.
+9/16/2024 10:31:46 PM|Removed texture 'a' from 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:46 PM|1 texture(s) deleted.
+9/16/2024 10:32:05 PM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd.
+9/16/2024 10:32:05 PM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd.
+9/16/2024 10:32:33 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 10:32:34 PM|Continue adding possible duplicate texture of 'a' from 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:34 PM|Added texture C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd to 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:37 PM|Removed texture 'a' from 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:37 PM|1 texture(s) deleted.
+9/16/2024 10:32:44 PM|Successfully backed up project 2024-09-16 22:32:44.
+9/17/2024 7:42:09 PM|53 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (53 clothes/0 decorations/0 facial overlays) ...
+9/17/2024 7:42:09 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/17/2024 7:42:09 PM|Loading all 167 items, this can take a moment...
+9/17/2024 7:42:10 PM|Finished loading all 167 items.
+9/17/2024 7:42:10 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 167 items and ready to rock (in 1.1131256 seconds).
+9/17/2024 7:42:10 PM|You are running the latest version: 3.0.0.7
+9/17/2024 7:42:19 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:42:19 PM|Added Male 5 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Hose\mp_m_freemode_01_mp_m_adutymom^lowr_046_r.ydd.
+9/17/2024 7:42:38 PM|Removed 'Legs' (See logs for full details). Total items: 53
+9/17/2024 7:42:43 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:42:43 PM|Added Male 3 Mask with 0 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Maske\mp_m_freemode_01_mp_m_adutymom^berd_010_u.ydd.
+9/17/2024 7:42:49 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/17/2024 7:42:49 PM|Added texture C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Maske\mp_m_freemode_01_mp_m_adutymom^berd_diff_015_b_uni.ytd to 'Male 3 Mask' (Mask) at pos 3
+9/17/2024 7:43:05 PM|Removed 'Mask' (See logs for full details). Total items: 53
+9/17/2024 7:43:08 PM|Successfully backed up project 2024-09-17 19:43:08.
+9/17/2024 7:43:11 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:43:11 PM|Added Male 14 Top with 0 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Torso\mp_m_freemode_01_^jbib_077_u.ydd.
+9/17/2024 7:43:13 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/17/2024 7:43:13 PM|Added texture C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Torso\mp_m_freemode_01_mp_m_adutymom^jbib_diff_086_h_uni.ytd to 'Male 14 Top' (Top) at pos 14
+9/17/2024 7:43:32 PM|Removed 'Top' (See logs for full details). Total items: 53
+9/17/2024 7:43:35 PM|Successfully built FiveM resource (53 clothes / 0 tattoos / 0 facial overlays) to C:\Users\Rene Queda\Desktop\DurtyClothTool.App\gp_kleidungv1
+9/17/2024 7:44:08 PM|Successfully backed up project 2024-09-17 19:44:08.
+9/17/2024 7:45:08 PM|Successfully backed up project 2024-09-17 19:45:08.
+9/17/2024 7:46:08 PM|Successfully backed up project 2024-09-17 19:46:08.
+9/17/2024 7:47:08 PM|Successfully backed up project 2024-09-17 19:47:08.
+9/17/2024 7:48:08 PM|Successfully backed up project 2024-09-17 19:48:08.
+9/17/2024 7:49:08 PM|Successfully backed up project 2024-09-17 19:49:08.
+9/17/2024 7:50:08 PM|Successfully backed up project 2024-09-17 19:50:08.
+9/17/2024 7:51:08 PM|Successfully backed up project 2024-09-17 19:51:08.
+9/17/2024 7:52:08 PM|Successfully backed up project 2024-09-17 19:52:08.
+9/17/2024 7:53:08 PM|Successfully backed up project 2024-09-17 19:53:08.
+9/17/2024 7:54:08 PM|Successfully backed up project 2024-09-17 19:54:08.
+9/17/2024 7:55:08 PM|Successfully backed up project 2024-09-17 19:55:08.
+9/17/2024 7:56:08 PM|Successfully backed up project 2024-09-17 19:56:08.
+9/17/2024 7:57:08 PM|Successfully backed up project 2024-09-17 19:57:08.
+9/17/2024 7:58:08 PM|Successfully backed up project 2024-09-17 19:58:08.
+9/17/2024 7:59:08 PM|Successfully backed up project 2024-09-17 19:59:08.
+9/17/2024 8:00:08 PM|Successfully backed up project 2024-09-17 20:00:08.
+9/17/2024 8:01:08 PM|Successfully backed up project 2024-09-17 20:01:08.
+9/19/2024 7:05:40 PM|53 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (53 clothes/0 decorations/0 facial overlays) ...
+9/19/2024 7:05:40 PM|Validated project cache. Removed 3 outdated items. Added 6 new items.
+9/19/2024 7:05:40 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/19/2024 7:05:40 PM|Loading all 167 items, this can take a moment...
+9/19/2024 7:05:40 PM|Finished loading all 167 items.
+9/19/2024 7:05:40 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 167 items and ready to rock (in 0.2580564 seconds).
+9/19/2024 7:10:32 PM|Created new project.
+9/19/2024 7:10:58 PM|1073 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\Altes Pack.dctproj (1073 clothes/0 decorations/0 facial overlays) ...
+9/19/2024 7:10:58 PM|No project cache found, need to generate new cache, this can take a moment depending on the project size...
+9/19/2024 7:10:58 PM|Loading all 7208 items, this can take a moment...
+9/19/2024 7:10:58 PM|Finished loading all 7208 items.
+9/19/2024 7:10:58 PM|Failed to find any files for cloth project, did the clothproject data folder got moved or modified?
+9/19/2024 7:11:05 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\Altes Pack.dctproj completely loaded 7208 items and ready to rock (in 7.3792672 seconds).
+9/19/2024 7:11:06 PM|Can't 3D preview texture 'a' from model 'Male 4 Body' (Body) at pos 4 due to missing model and / or missing texture file.
+9/19/2024 7:11:07 PM|Can't 3D preview texture 'a' from model 'Male 5 Body' (Body) at pos 5 due to missing model and / or missing texture file.
+9/19/2024 7:11:07 PM|Can't 3D preview texture 'a' from model 'Male 6 Body' (Body) at pos 6 due to missing model and / or missing texture file.
+9/19/2024 7:11:58 PM|Successfully backed up project 2024-09-19 19:11:58.
+9/17/2024 7:42:08 PM|Created new project.
+9/17/2024 7:42:08 PM|Found a valid license. [1616]
+9/17/2024 7:42:08 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/17/2024 7:42:08 PM|License supports this app version.
+9/17/2024 7:42:08 PM|License matches with your hardware id.
+9/16/2024 10:07:44 PM|Created new project.
+9/16/2024 10:07:44 PM|Found a valid license. [1616]
+9/16/2024 10:07:44 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/16/2024 10:07:44 PM|License supports this app version.
+9/16/2024 10:07:44 PM|License matches with your hardware id.
+9/16/2024 10:07:45 PM|You are running the latest version: 3.0.0.7
+9/16/2024 5:51:38 PM|Created new project.
+9/16/2024 5:51:39 PM|Found a valid license. [1616]
+9/16/2024 5:51:39 PM|License is not expired. (Expires: 10/2/2024 12:00:00 AM)
+9/16/2024 5:51:39 PM|License supports this app version.
+9/16/2024 5:51:39 PM|License matches with your hardware id.
+9/16/2024 5:51:39 PM|52 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (52 clothes/0 decorations/0 facial overlays) ...
+9/16/2024 5:51:40 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/16/2024 5:51:40 PM|You are running the latest version: 3.0.0.7
+9/16/2024 5:51:40 PM|Loading all 165 items, this can take a moment...
+9/16/2024 5:51:41 PM|Finished loading all 165 items.
+9/16/2024 5:51:41 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 165 items and ready to rock (in 1.9724077 seconds).
+9/16/2024 5:51:51 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:51:53 PM|Continue adding possible duplicate texture of 'a' from 'Male 371 Legs' (Legs) at pos 371
+9/16/2024 5:51:53 PM|Added Male 5 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Hose\mp_m_freemode_01_mp_m_fgzsad^lowr_000_r.ydd.
+9/16/2024 5:52:29 PM|Removed 'Legs' (See logs for full details). Total items: 52
+9/16/2024 5:52:31 PM|Removed 'Legs' (See logs for full details). Total items: 51
+9/16/2024 5:52:35 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:52:35 PM|Added Male 4 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Hose\mp_m_freemode_01_mp_m_fgzsad^lowr_000_r.ydd.
+9/16/2024 5:52:38 PM|Successfully backed up project 2024-09-16 17:52:38.
+9/16/2024 5:52:47 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 5:52:49 PM|Continue adding possible duplicate texture of 'a' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:52:49 PM|Added Male 13 Top with 1 found textures from C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Torso\mp_m_freemode_01_mp_m_fgzsad^jbib_000_u.ydd.
+9/16/2024 5:53:38 PM|Successfully backed up project 2024-09-16 17:53:38.
+9/16/2024 5:54:38 PM|Successfully backed up project 2024-09-16 17:54:38.
+9/16/2024 5:54:39 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 5:54:41 PM|Continue adding possible duplicate texture of 'a' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:41 PM|Added texture C:\Users\Rene Queda\Downloads\RWENA (1)\RWENA\Torso\mp_m_freemode_01_mp_m_fgzsad^jbib_diff_000_a_uni.ytd to 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:46 PM|Removed texture 'b' from 'Male 793 Top' (Top) at pos 793
+9/16/2024 5:54:46 PM|1 texture(s) deleted.
+9/16/2024 5:55:35 PM|Removed 'Top' (See logs for full details). Total items: 52
+9/16/2024 5:55:38 PM|Successfully backed up project 2024-09-16 17:55:38.
+9/16/2024 5:56:38 PM|Successfully backed up project 2024-09-16 17:56:38.
+9/16/2024 5:57:38 PM|Successfully backed up project 2024-09-16 17:57:38.
+9/16/2024 5:58:38 PM|Successfully backed up project 2024-09-16 17:58:38.
+9/16/2024 10:07:51 PM|52 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (52 clothes/0 decorations/0 facial overlays) ...
+9/16/2024 10:07:51 PM|Validated project cache. Removed 1 outdated items. Added 1 new items.
+9/16/2024 10:07:51 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/16/2024 10:07:51 PM|Loading all 165 items, this can take a moment...
+9/16/2024 10:07:51 PM|Finished loading all 165 items.
+9/16/2024 10:07:51 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 165 items and ready to rock (in 7.2876846 seconds).
+9/16/2024 10:08:05 PM|Trying to add 1 drawable files by drag & drop...
+9/16/2024 10:08:06 PM|Added Male 13 Top with 1 found textures from C:\Users\Rene Queda\Downloads\CorleoneNEU\CorleoneNEU\mp_m_freemode_01_mp_m_^jbib_103_u.ydd.
+9/16/2024 10:08:25 PM|Successfully built FiveM resource (53 clothes / 0 tattoos / 0 facial overlays) to C:\Users\Rene Queda\Desktop\DurtyClothTool.App\gp_kleidungv1
+9/16/2024 10:08:44 PM|Successfully backed up project 2024-09-16 22:08:44.
+9/16/2024 10:09:44 PM|Successfully backed up project 2024-09-16 22:09:44.
+9/16/2024 10:10:44 PM|Successfully backed up project 2024-09-16 22:10:44.
+9/16/2024 10:11:44 PM|Successfully backed up project 2024-09-16 22:11:44.
+9/16/2024 10:12:44 PM|Successfully backed up project 2024-09-16 22:12:44.
+9/16/2024 10:13:44 PM|Successfully backed up project 2024-09-16 22:13:44.
+9/16/2024 10:14:44 PM|Successfully backed up project 2024-09-16 22:14:44.
+9/16/2024 10:15:44 PM|Successfully backed up project 2024-09-16 22:15:44.
+9/16/2024 10:16:44 PM|Successfully backed up project 2024-09-16 22:16:44.
+9/16/2024 10:17:44 PM|Successfully backed up project 2024-09-16 22:17:44.
+9/16/2024 10:18:44 PM|Successfully backed up project 2024-09-16 22:18:44.
+9/16/2024 10:19:44 PM|Successfully backed up project 2024-09-16 22:19:44.
+9/16/2024 10:20:44 PM|Successfully backed up project 2024-09-16 22:20:44.
+9/16/2024 10:21:44 PM|Successfully backed up project 2024-09-16 22:21:44.
+9/16/2024 10:22:44 PM|Successfully backed up project 2024-09-16 22:22:44.
+9/16/2024 10:23:44 PM|Successfully backed up project 2024-09-16 22:23:44.
+9/16/2024 10:24:44 PM|Successfully backed up project 2024-09-16 22:24:44.
+9/16/2024 10:25:44 PM|Successfully backed up project 2024-09-16 22:25:44.
+9/16/2024 10:26:44 PM|Successfully backed up project 2024-09-16 22:26:44.
+9/16/2024 10:27:44 PM|Successfully backed up project 2024-09-16 22:27:44.
+9/16/2024 10:28:44 PM|Successfully backed up project 2024-09-16 22:28:44.
+9/16/2024 10:29:44 PM|Successfully backed up project 2024-09-16 22:29:44.
+9/16/2024 10:30:44 PM|Successfully backed up project 2024-09-16 22:30:44.
+9/16/2024 10:31:12 PM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd.
+9/16/2024 10:31:12 PM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd.
+9/16/2024 10:31:32 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 10:31:34 PM|Continue adding possible duplicate texture of 'a' from 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:34 PM|Added texture C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^task_diff_001_a_uni.ytd to 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:44 PM|Successfully backed up project 2024-09-16 22:31:44.
+9/16/2024 10:31:46 PM|Removed texture 'a' from 'Female 268 Armor' (Armor) at pos 268
+9/16/2024 10:31:46 PM|1 texture(s) deleted.
+9/16/2024 10:32:05 PM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd.
+9/16/2024 10:32:05 PM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd.
+9/16/2024 10:32:33 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/16/2024 10:32:34 PM|Continue adding possible duplicate texture of 'a' from 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:34 PM|Added texture C:\Users\Rene Queda\Desktop\mp_f_freemode_01_mp_f_gp_kleidungv1^jbib_diff_004_a_uni.ytd to 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:37 PM|Removed texture 'a' from 'Female 809 Top' (Top) at pos 809
+9/16/2024 10:32:37 PM|1 texture(s) deleted.
+9/16/2024 10:32:44 PM|Successfully backed up project 2024-09-16 22:32:44.
+9/17/2024 7:42:09 PM|53 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (53 clothes/0 decorations/0 facial overlays) ...
+9/17/2024 7:42:09 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/17/2024 7:42:09 PM|Loading all 167 items, this can take a moment...
+9/17/2024 7:42:10 PM|Finished loading all 167 items.
+9/17/2024 7:42:10 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 167 items and ready to rock (in 1.1131256 seconds).
+9/17/2024 7:42:10 PM|You are running the latest version: 3.0.0.7
+9/17/2024 7:42:19 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:42:19 PM|Added Male 5 Legs with 1 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Hose\mp_m_freemode_01_mp_m_adutymom^lowr_046_r.ydd.
+9/17/2024 7:42:38 PM|Removed 'Legs' (See logs for full details). Total items: 53
+9/17/2024 7:42:43 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:42:43 PM|Added Male 3 Mask with 0 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Maske\mp_m_freemode_01_mp_m_adutymom^berd_010_u.ydd.
+9/17/2024 7:42:49 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/17/2024 7:42:49 PM|Added texture C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Maske\mp_m_freemode_01_mp_m_adutymom^berd_diff_015_b_uni.ytd to 'Male 3 Mask' (Mask) at pos 3
+9/17/2024 7:43:05 PM|Removed 'Mask' (See logs for full details). Total items: 53
+9/17/2024 7:43:08 PM|Successfully backed up project 2024-09-17 19:43:08.
+9/17/2024 7:43:11 PM|Trying to add 1 drawable files by drag & drop...
+9/17/2024 7:43:11 PM|Added Male 14 Top with 0 found textures from C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Torso\mp_m_freemode_01_^jbib_077_u.ydd.
+9/17/2024 7:43:13 PM|Trying to add 1 texture files to selected drawable by drag & drop...
+9/17/2024 7:43:13 PM|Added texture C:\Users\Rene Queda\Downloads\RWENANEW\RWENANEW\Torso\mp_m_freemode_01_mp_m_adutymom^jbib_diff_086_h_uni.ytd to 'Male 14 Top' (Top) at pos 14
+9/17/2024 7:43:32 PM|Removed 'Top' (See logs for full details). Total items: 53
+9/17/2024 7:43:35 PM|Successfully built FiveM resource (53 clothes / 0 tattoos / 0 facial overlays) to C:\Users\Rene Queda\Desktop\DurtyClothTool.App\gp_kleidungv1
+9/17/2024 7:44:08 PM|Successfully backed up project 2024-09-17 19:44:08.
+9/17/2024 7:45:08 PM|Successfully backed up project 2024-09-17 19:45:08.
+9/17/2024 7:46:08 PM|Successfully backed up project 2024-09-17 19:46:08.
+9/17/2024 7:47:08 PM|Successfully backed up project 2024-09-17 19:47:08.
+9/17/2024 7:48:08 PM|Successfully backed up project 2024-09-17 19:48:08.
+9/17/2024 7:49:08 PM|Successfully backed up project 2024-09-17 19:49:08.
+9/17/2024 7:50:08 PM|Successfully backed up project 2024-09-17 19:50:08.
+9/17/2024 7:51:08 PM|Successfully backed up project 2024-09-17 19:51:08.
+9/17/2024 7:52:08 PM|Successfully backed up project 2024-09-17 19:52:08.
+9/17/2024 7:53:08 PM|Successfully backed up project 2024-09-17 19:53:08.
+9/17/2024 7:54:08 PM|Successfully backed up project 2024-09-17 19:54:08.
+9/17/2024 7:55:08 PM|Successfully backed up project 2024-09-17 19:55:08.
+9/17/2024 7:56:08 PM|Successfully backed up project 2024-09-17 19:56:08.
+9/17/2024 7:57:08 PM|Successfully backed up project 2024-09-17 19:57:08.
+9/17/2024 7:58:08 PM|Successfully backed up project 2024-09-17 19:58:08.
+9/17/2024 7:59:08 PM|Successfully backed up project 2024-09-17 19:59:08.
+9/17/2024 8:00:08 PM|Successfully backed up project 2024-09-17 20:00:08.
+9/17/2024 8:01:08 PM|Successfully backed up project 2024-09-17 20:01:08.
+9/19/2024 7:12:11 PM|53 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (53 clothes/0 decorations/0 facial overlays) ...
+9/19/2024 7:12:11 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/19/2024 7:12:11 PM|Loading all 167 items, this can take a moment...
+9/19/2024 7:12:11 PM|Finished loading all 167 items.
+9/19/2024 7:12:11 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 167 items and ready to rock (in 0.0776666 seconds).
+9/19/2024 10:43:13 PM|Trying to import 1 drawable files from other app by drag & drop...
+9/19/2024 10:43:13 PM|Added Female 6 Top with 0 found textures from mp_f_freemode_01_mp_f_rwenaneumsch^jbib_003_u.ydd.
+9/19/2024 10:43:16 PM|Added texture mp_f_freemode_01_mp_f_cc_kleidungen_2023^jbib_diff_015_a_uni.ytd to 'Female 6 Top' (Top) at pos 6
+9/19/2024 10:43:56 PM|Removed texture 'a' from 'Male 793 Top' (Top) at pos 793
+9/19/2024 10:43:56 PM|1 texture(s) deleted.
+9/19/2024 10:43:57 PM|Added texture mp_m_freemode_01_mp_m_rwenwa^lowr_diff_000_a_whi.ytd to 'Male 793 Top' (Top) at pos 793
+9/19/2024 10:43:58 PM|Successfully backed up project 2024-09-19 22:43:58.
+9/19/2024 10:44:07 PM|Removed 'Top' (See logs for full details). Total items: 53
+9/19/2024 10:44:08 PM|Trying to import 1 drawable files from other app by drag & drop...
+9/19/2024 10:44:08 PM|Added Male 5 Legs with 0 found textures from mp_m_freemode_01_mp_m_rwenwa^lowr_000_r.ydd.
+9/19/2024 10:44:13 PM|Added texture mp_m_freemode_01_mp_m_rwenwa^lowr_diff_000_a_whi.ytd to 'Male 793 Legs' (Legs) at pos 793
+9/19/2024 10:44:50 PM|Removed 'Legs' (See logs for full details). Total items: 53
+9/19/2024 10:44:58 PM|Successfully backed up project 2024-09-19 22:44:58.
+9/19/2024 10:45:03 PM|Trying to import 1 drawable files from other app by drag & drop...
+9/19/2024 10:45:03 PM|Added Male 13 Top with 0 found textures from mp_m_freemode_01_mp_m_rwenwa^jbib_000_u.ydd.
+9/19/2024 10:45:11 PM|Added texture mp_m_freemode_01_mp_m_rwenwa^jbib_diff_000_a_uni.ytd to 'Male 793 Top' (Top) at pos 793
+9/19/2024 10:45:42 PM|Trying to import 1 drawable files from other app by drag & drop...
+9/19/2024 10:45:42 PM|Added Male 3 Mask with 0 found textures from mp_m_freemode_01_mp_m_rwenwa^berd_000_u.ydd.
+9/19/2024 10:45:44 PM|Added texture mp_m_freemode_01_mp_m_rwenwa^berd_diff_000_a_uni.ytd to 'Male 3 Mask' (Mask) at pos 3
+9/19/2024 10:45:58 PM|Successfully backed up project 2024-09-19 22:45:58.
+9/19/2024 10:45:58 PM|Removed 'Mask' (See logs for full details). Total items: 54
+9/19/2024 10:46:08 PM|Successfully built FiveM resource (54 clothes / 0 tattoos / 0 facial overlays) to C:\Users\Rene Queda\Desktop\DurtyClothTool.App\gp_kleidungv1
+9/19/2024 10:46:58 PM|Successfully backed up project 2024-09-19 22:46:58.
+9/19/2024 10:47:58 PM|Successfully backed up project 2024-09-19 22:47:58.
+9/19/2024 10:48:58 PM|Successfully backed up project 2024-09-19 22:48:58.
+9/19/2024 10:49:58 PM|Successfully backed up project 2024-09-19 22:49:58.
+9/19/2024 10:50:58 PM|Successfully backed up project 2024-09-19 22:50:58.
+9/19/2024 10:51:58 PM|Successfully backed up project 2024-09-19 22:51:58.
+9/19/2024 10:52:58 PM|Successfully backed up project 2024-09-19 22:52:58.
+9/19/2024 10:53:58 PM|Successfully backed up project 2024-09-19 22:53:58.
+9/19/2024 10:54:58 PM|Successfully backed up project 2024-09-19 22:54:58.
+9/19/2024 10:55:58 PM|Successfully backed up project 2024-09-19 22:55:58.
+9/19/2024 10:56:58 PM|Successfully backed up project 2024-09-19 22:56:58.
+9/19/2024 10:57:58 PM|Successfully backed up project 2024-09-19 22:57:58.
+9/19/2024 10:58:58 PM|Successfully backed up project 2024-09-19 22:58:58.
+9/19/2024 10:59:58 PM|Successfully backed up project 2024-09-19 22:59:58.
+9/19/2024 11:00:58 PM|Successfully backed up project 2024-09-19 23:00:58.
+9/19/2024 11:01:58 PM|Successfully backed up project 2024-09-19 23:01:58.
+9/19/2024 11:02:58 PM|Successfully backed up project 2024-09-19 23:02:58.
+9/19/2024 11:03:58 PM|Successfully backed up project 2024-09-19 23:03:58.
+9/19/2024 11:04:58 PM|Successfully backed up project 2024-09-19 23:04:58.
+9/19/2024 11:05:58 PM|Successfully backed up project 2024-09-19 23:05:58.
+9/19/2024 11:06:58 PM|Successfully backed up project 2024-09-19 23:06:58.
+9/19/2024 11:07:58 PM|Successfully backed up project 2024-09-19 23:07:58.
+9/19/2024 11:08:58 PM|Successfully backed up project 2024-09-19 23:08:58.
+9/19/2024 11:09:58 PM|Successfully backed up project 2024-09-19 23:09:58.
+9/19/2024 11:10:58 PM|Successfully backed up project 2024-09-19 23:10:58.
+9/19/2024 11:11:58 PM|Successfully backed up project 2024-09-19 23:11:58.
+9/19/2024 11:12:58 PM|Successfully backed up project 2024-09-19 23:12:58.
+9/19/2024 11:13:58 PM|Successfully backed up project 2024-09-19 23:13:58.
+9/19/2024 11:14:58 PM|Successfully backed up project 2024-09-19 23:14:58.
+9/19/2024 11:15:58 PM|Successfully backed up project 2024-09-19 23:15:58.
+9/19/2024 11:16:58 PM|Successfully backed up project 2024-09-19 23:16:58.
+9/19/2024 11:17:58 PM|Successfully backed up project 2024-09-19 23:17:58.
+9/19/2024 11:18:58 PM|Successfully backed up project 2024-09-19 23:18:58.
+9/19/2024 11:19:58 PM|Successfully backed up project 2024-09-19 23:19:58.
+9/19/2024 11:20:58 PM|Successfully backed up project 2024-09-19 23:20:58.
+9/19/2024 11:21:58 PM|Successfully backed up project 2024-09-19 23:21:58.
+9/19/2024 11:22:58 PM|Successfully backed up project 2024-09-19 23:22:58.
+9/19/2024 11:23:58 PM|Successfully backed up project 2024-09-19 23:23:58.
+9/19/2024 11:24:58 PM|Successfully backed up project 2024-09-19 23:24:58.
+9/19/2024 11:25:58 PM|Successfully backed up project 2024-09-19 23:25:58.
+9/19/2024 11:26:58 PM|Successfully backed up project 2024-09-19 23:26:58.
+9/19/2024 11:27:58 PM|Successfully backed up project 2024-09-19 23:27:58.
+9/19/2024 11:28:58 PM|Successfully backed up project 2024-09-19 23:28:58.
+9/19/2024 11:29:58 PM|Successfully backed up project 2024-09-19 23:29:58.
+9/19/2024 11:30:58 PM|Successfully backed up project 2024-09-19 23:30:58.
+9/19/2024 11:31:58 PM|Successfully backed up project 2024-09-19 23:31:58.
+9/19/2024 11:32:58 PM|Successfully backed up project 2024-09-19 23:32:58.
+9/19/2024 11:33:58 PM|Successfully backed up project 2024-09-19 23:33:58.
+9/19/2024 11:34:58 PM|Successfully backed up project 2024-09-19 23:34:58.
+9/19/2024 11:35:58 PM|Successfully backed up project 2024-09-19 23:35:58.
+9/19/2024 11:36:58 PM|Successfully backed up project 2024-09-19 23:36:58.
+9/19/2024 11:37:58 PM|Successfully backed up project 2024-09-19 23:37:58.
+9/19/2024 11:38:58 PM|Successfully backed up project 2024-09-19 23:38:58.
+9/19/2024 11:39:58 PM|Successfully backed up project 2024-09-19 23:39:58.
+9/19/2024 11:40:58 PM|Successfully backed up project 2024-09-19 23:40:58.
+9/19/2024 11:41:58 PM|Successfully backed up project 2024-09-19 23:41:58.
+9/19/2024 11:42:58 PM|Successfully backed up project 2024-09-19 23:42:58.
+9/21/2024 11:12:04 AM|54 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (54 clothes/0 decorations/0 facial overlays) ...
+9/21/2024 11:12:05 AM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/21/2024 11:12:05 AM|You are running the latest version: 3.0.0.7
+9/21/2024 11:12:05 AM|Loading all 169 items, this can take a moment...
+9/21/2024 11:12:06 AM|Finished loading all 169 items.
+9/21/2024 11:12:06 AM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 169 items and ready to rock (in 1.716888 seconds).
+9/21/2024 11:12:41 AM|Exported appearance item 'Armor [R011/A072] (Armor)' to C:\Users\Rene Queda\Desktop\GP - Frak Kleidung\Rwena\mp_m_freemode_01_mp_m_gp_kleidungv1^task_011_u.ydd.
+9/21/2024 11:12:49 AM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\GP - Frak Kleidung\Rwena\mp_m_freemode_01_mp_m_gp_kleidungv1^task_diff_011_a_uni.ytd.
+9/21/2024 11:12:49 AM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\GP - Frak Kleidung\Rwena\mp_m_freemode_01_mp_m_gp_kleidungv1^task_diff_011_a_uni.ytd.
+9/21/2024 11:13:00 AM|Removed 'Armor' (See logs for full details). Total items: 53
+9/21/2024 11:13:04 AM|Successfully backed up project 2024-09-21 11:13:04.
+9/21/2024 11:13:17 AM|Exported appearance item 'Legs [R004/A205] (Legs)' to C:\Users\Rene Queda\Desktop\GP - Frak Kleidung\Rwena\Hose\mp_m_freemode_01_mp_m_gp_kleidungv1^lowr_004_r.ydd.
+9/21/2024 11:13:21 AM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\GP - Frak Kleidung\Rwena\Hose\mp_m_freemode_01_mp_m_gp_kleidungv1^lowr_diff_004_a_whi.ytd.
+9/21/2024 11:13:21 AM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\GP - Frak Kleidung\Rwena\Hose\mp_m_freemode_01_mp_m_gp_kleidungv1^lowr_diff_004_a_whi.ytd.
+9/21/2024 11:13:26 AM|Removed 'Legs' (See logs for full details). Total items: 52
+9/21/2024 11:13:41 AM|Exported appearance item 'Mask [R001/A244] (Mask)' to C:\Users\Rene Queda\Desktop\GP - Frak Kleidung\Rwena\Mask\mp_m_freemode_01_mp_m_gp_kleidungv1^berd_001_u.ydd.
+9/21/2024 11:13:46 AM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\GP - Frak Kleidung\Rwena\Mask\mp_m_freemode_01_mp_m_gp_kleidungv1^berd_diff_001_a_uni.ytd.
+9/21/2024 11:13:46 AM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\GP - Frak Kleidung\Rwena\Mask\mp_m_freemode_01_mp_m_gp_kleidungv1^berd_diff_001_a_uni.ytd.
+9/21/2024 11:13:51 AM|Removed 'Mask' (See logs for full details). Total items: 51
+9/21/2024 11:15:03 AM|51 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (51 clothes/0 decorations/0 facial overlays) ...
+9/21/2024 11:15:03 AM|Project with 51 clothes/decorations saved (C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj).
+9/21/2024 11:15:03 AM|Successfully restored last auto saved project from 2024-09-21 09:15:03.
+9/21/2024 11:15:03 AM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/21/2024 11:15:03 AM|Loading all 163 items, this can take a moment...
+9/21/2024 11:15:03 AM|Finished loading all 163 items.
+9/21/2024 11:15:03 AM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 163 items and ready to rock (in 0.7814053 seconds).
+9/21/2024 11:15:30 AM|Exported texture 'a' to C:\Users\Rene Queda\Desktop\GP - Frak Kleidung\Rwena\Torso\mp_m_freemode_01_mp_m_gp_kleidungv1^jbib_diff_012_a_uni.ytd.
+9/21/2024 11:15:30 AM|Exported texture ''a'' to C:\Users\Rene Queda\Desktop\GP - Frak Kleidung\Rwena\Torso\mp_m_freemode_01_mp_m_gp_kleidungv1^jbib_diff_012_a_uni.ytd.
+9/21/2024 11:15:54 AM|Removed 'Top' (See logs for full details). Total items: 50
+9/21/2024 11:15:55 AM|Successfully backed up project 2024-09-21 11:15:55.
+9/21/2024 11:16:14 AM|Successfully built FiveM resource (50 clothes / 0 tattoos / 0 facial overlays) to C:\Users\Rene Queda\Desktop\DurtyClothTool.App\gp_kleidungv1
+9/21/2024 11:16:55 AM|Successfully backed up project 2024-09-21 11:16:55.
+9/21/2024 11:17:55 AM|Successfully backed up project 2024-09-21 11:17:55.
+9/21/2024 11:18:55 AM|Successfully backed up project 2024-09-21 11:18:55.
+9/21/2024 11:19:55 AM|Successfully backed up project 2024-09-21 11:19:55.
+9/21/2024 11:20:55 AM|Successfully backed up project 2024-09-21 11:20:55.
+9/21/2024 11:21:55 AM|Successfully backed up project 2024-09-21 11:21:55.
+9/21/2024 11:22:55 AM|Successfully backed up project 2024-09-21 11:22:55.
+9/21/2024 11:23:55 AM|Successfully backed up project 2024-09-21 11:23:55.
+9/21/2024 11:24:55 AM|Successfully backed up project 2024-09-21 11:24:55.
+9/21/2024 11:25:55 AM|Successfully backed up project 2024-09-21 11:25:55.
+9/21/2024 11:26:55 AM|Successfully backed up project 2024-09-21 11:26:55.
+9/21/2024 11:27:55 AM|Successfully backed up project 2024-09-21 11:27:55.
+9/21/2024 11:28:55 AM|Successfully backed up project 2024-09-21 11:28:55.
+9/21/2024 11:29:55 AM|Successfully backed up project 2024-09-21 11:29:55.
+9/21/2024 11:30:55 AM|Successfully backed up project 2024-09-21 11:30:55.
+9/21/2024 11:31:55 AM|Successfully backed up project 2024-09-21 11:31:55.
+9/21/2024 11:32:55 AM|Successfully backed up project 2024-09-21 11:32:55.
+9/21/2024 11:33:55 AM|Successfully backed up project 2024-09-21 11:33:55.
+9/21/2024 11:34:55 AM|Successfully backed up project 2024-09-21 11:34:55.
+9/21/2024 11:35:55 AM|Successfully backed up project 2024-09-21 11:35:55.
+9/21/2024 11:36:55 AM|Successfully backed up project 2024-09-21 11:36:55.
+9/21/2024 11:37:55 AM|Successfully backed up project 2024-09-21 11:37:55.
+9/21/2024 11:38:55 AM|Successfully backed up project 2024-09-21 11:38:55.
+9/21/2024 11:39:55 AM|Successfully backed up project 2024-09-21 11:39:55.
+9/21/2024 11:40:55 AM|Successfully backed up project 2024-09-21 11:40:55.
+9/21/2024 11:41:55 AM|Successfully backed up project 2024-09-21 11:41:55.
+9/21/2024 11:42:55 AM|Successfully backed up project 2024-09-21 11:42:55.
+9/21/2024 11:43:55 AM|Successfully backed up project 2024-09-21 11:43:55.
+9/21/2024 11:44:55 AM|Successfully backed up project 2024-09-21 11:44:55.
+9/21/2024 11:45:55 AM|Successfully backed up project 2024-09-21 11:45:55.
+9/21/2024 11:46:55 AM|Successfully backed up project 2024-09-21 11:46:55.
+9/21/2024 11:47:55 AM|Successfully backed up project 2024-09-21 11:47:55.
+9/21/2024 11:48:55 AM|Successfully backed up project 2024-09-21 11:48:55.
+9/21/2024 11:49:55 AM|Successfully backed up project 2024-09-21 11:49:55.
+9/21/2024 11:50:55 AM|Successfully backed up project 2024-09-21 11:50:55.
+9/21/2024 11:51:55 AM|Successfully backed up project 2024-09-21 11:51:55.
+9/21/2024 11:52:55 AM|Successfully backed up project 2024-09-21 11:52:55.
+9/21/2024 11:53:55 AM|Successfully backed up project 2024-09-21 11:53:55.
+9/21/2024 11:54:55 AM|Successfully backed up project 2024-09-21 11:54:55.
+9/21/2024 11:55:55 AM|Successfully backed up project 2024-09-21 11:55:55.
+9/21/2024 11:56:55 AM|Successfully backed up project 2024-09-21 11:56:55.
+9/21/2024 11:57:55 AM|Successfully backed up project 2024-09-21 11:57:55.
+9/21/2024 11:58:55 AM|Successfully backed up project 2024-09-21 11:58:55.
+9/21/2024 11:59:55 AM|Successfully backed up project 2024-09-21 11:59:55.
+9/21/2024 12:00:55 PM|Successfully backed up project 2024-09-21 12:00:55.
+9/21/2024 12:01:55 PM|Successfully backed up project 2024-09-21 12:01:55.
+9/21/2024 12:02:55 PM|Successfully backed up project 2024-09-21 12:02:55.
+9/21/2024 12:03:55 PM|Successfully backed up project 2024-09-21 12:03:55.
+9/21/2024 12:04:55 PM|Successfully backed up project 2024-09-21 12:04:55.
+9/21/2024 12:05:55 PM|Successfully backed up project 2024-09-21 12:05:55.
+9/21/2024 12:06:55 PM|Successfully backed up project 2024-09-21 12:06:55.
+9/21/2024 12:07:55 PM|Successfully backed up project 2024-09-21 12:07:55.
+9/21/2024 12:08:55 PM|Successfully backed up project 2024-09-21 12:08:55.
+9/21/2024 12:09:55 PM|Successfully backed up project 2024-09-21 12:09:55.
+9/21/2024 12:10:55 PM|Successfully backed up project 2024-09-21 12:10:55.
+9/21/2024 12:11:55 PM|Successfully backed up project 2024-09-21 12:11:55.
+9/21/2024 12:12:55 PM|Successfully backed up project 2024-09-21 12:12:55.
+9/21/2024 12:13:55 PM|Successfully backed up project 2024-09-21 12:13:55.
+9/21/2024 12:14:55 PM|Successfully backed up project 2024-09-21 12:14:55.
+9/21/2024 12:15:55 PM|Successfully backed up project 2024-09-21 12:15:55.
+9/21/2024 12:16:55 PM|Successfully backed up project 2024-09-21 12:16:55.
+9/21/2024 12:17:55 PM|Successfully backed up project 2024-09-21 12:17:55.
+9/21/2024 12:18:55 PM|Successfully backed up project 2024-09-21 12:18:55.
+9/21/2024 12:19:55 PM|Successfully backed up project 2024-09-21 12:19:55.
+9/21/2024 12:20:55 PM|Successfully backed up project 2024-09-21 12:20:55.
+9/21/2024 12:21:55 PM|Successfully backed up project 2024-09-21 12:21:55.
+9/21/2024 12:22:55 PM|Successfully backed up project 2024-09-21 12:22:55.
+9/21/2024 12:23:55 PM|Successfully backed up project 2024-09-21 12:23:55.
+9/21/2024 12:24:55 PM|Successfully backed up project 2024-09-21 12:24:55.
+9/21/2024 12:25:55 PM|Successfully backed up project 2024-09-21 12:25:55.
+9/21/2024 12:26:55 PM|Successfully backed up project 2024-09-21 12:26:55.
+9/21/2024 12:27:55 PM|Successfully backed up project 2024-09-21 12:27:55.
+9/21/2024 12:28:55 PM|Successfully backed up project 2024-09-21 12:28:55.
+9/21/2024 12:29:55 PM|Successfully backed up project 2024-09-21 12:29:55.
+9/21/2024 12:30:55 PM|Successfully backed up project 2024-09-21 12:30:55.
+9/21/2024 12:31:55 PM|Successfully backed up project 2024-09-21 12:31:55.
+9/21/2024 12:32:55 PM|Successfully backed up project 2024-09-21 12:32:55.
+9/21/2024 12:33:55 PM|Successfully backed up project 2024-09-21 12:33:55.
+9/21/2024 12:34:55 PM|Successfully backed up project 2024-09-21 12:34:55.
+9/21/2024 12:35:55 PM|Successfully backed up project 2024-09-21 12:35:55.
+9/21/2024 12:36:55 PM|Successfully backed up project 2024-09-21 12:36:55.
+9/21/2024 12:37:55 PM|Successfully backed up project 2024-09-21 12:37:55.
+9/21/2024 12:38:55 PM|Successfully backed up project 2024-09-21 12:38:55.
+9/21/2024 12:39:55 PM|Successfully backed up project 2024-09-21 12:39:55.
+9/21/2024 12:40:55 PM|Successfully backed up project 2024-09-21 12:40:55.
+9/21/2024 12:41:55 PM|Successfully backed up project 2024-09-21 12:41:55.
+9/21/2024 12:42:55 PM|Successfully backed up project 2024-09-21 12:42:55.
+9/21/2024 2:06:30 PM|50 items in total loading from Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj (50 clothes/0 decorations/0 facial overlays) ...
+9/21/2024 2:06:30 PM|Project with 50 clothes/decorations saved (C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj).
+9/21/2024 2:06:30 PM|Successfully restored last auto saved project from 2024-09-21 12:06:30.
+9/21/2024 2:06:30 PM|No cache data found for new texture ID 9bd0042d-f4e5-4249-8090-9c1e34bf229b of cloth ID a8d7bcc8-27d6-49fe-9188-38d4ed05d93e.
+9/21/2024 2:06:30 PM|Loading all 161 items, this can take a moment...
+9/21/2024 2:06:31 PM|Finished loading all 161 items.
+9/21/2024 2:06:31 PM|Project C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj completely loaded 161 items and ready to rock (in 1.0245079 seconds).
+9/21/2024 2:07:25 PM|Successfully backed up project 2024-09-21 14:07:25.
+9/21/2024 2:07:51 PM|Analyzing cloth project data folder files to retrieve any not used files...
+9/21/2024 2:07:55 PM|Project with 50 clothes/decorations saved (C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj).
+9/21/2024 2:07:55 PM|Cleaning up 42 files that are not in use in current project setup...
+9/21/2024 2:07:55 PM|Successfully optimized your data files. Cleaned 42 files that were not in use.
+9/21/2024 2:08:22 PM|Successfully copied your projects folder to its new location. (C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\clothproject_gp_kleidungv1 => C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\clothproject_bc_kleidung)
+9/21/2024 2:08:25 PM|Successfully backed up project 2024-09-21 14:08:25.
+9/21/2024 2:08:53 PM|Successfully copied your projects folder to its new location. (C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\clothproject_bc_kleidung => C:\Users\Rene Queda\Desktop\DurtyClothTool.App\BC_Kleidung\clothproject_bc_kleidung)
+9/21/2024 2:09:25 PM|Successfully backed up project 2024-09-21 14:09:25.
+9/21/2024 2:09:36 PM|Project with 50 clothes/decorations saved (C:\Users\Rene Queda\Desktop\DurtyClothTool.App\clothproject_gp_kleidung\gpkleidung_live.dctproj).
+9/21/2024 2:09:48 PM|Project with 50 clothes/decorations saved (C:\Users\Rene Queda\Desktop\DurtyClothTool.App\BC_Kleidung\bc_kleidung.dctproj).
